@@ -5,7 +5,9 @@ You can use the [editor on GitHub](https://github.com/VadimGulich/QA_Tools/edit/
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
-![QA/QC](https://github.com/VadimGulich/QA_Tools/blob/main/QA-QC-1.png)
+
+![QA/QC](QA-QC-1.png)
+
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
